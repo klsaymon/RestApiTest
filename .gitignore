@@ -1,0 +1,10 @@
+*.exe
+*.suo
+*.lock
+*.ide
+hooks
+info
+.vs
+PublishProfiles
+bin
+obj
